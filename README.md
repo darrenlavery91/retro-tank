@@ -18,8 +18,6 @@ Here is a glimpse of what Jordan and I built:
 <img width="1362" height="726" alt="Screenshot 2026-06-08 at 19 36 49" src="https://github.com/user-attachments/assets/64581364-082c-4f20-a91c-c341b8ddc49c" />
 <img width="1368" height="727" alt="Screenshot 2026-06-08 at 19 38 39" src="https://github.com/user-attachments/assets/149cbd9c-8e03-403d-8075-4e3605511d45" />
 
-*(Note: Replace the image paths above with the actual paths to your screenshots in your repository!)*
-
 ---
 
 ## Features
