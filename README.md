@@ -47,3 +47,26 @@ Make sure you have [Node.js](https://nodejs.org/) installed (if using a bundler)
 1. Clone the repository:
 ```bash
    git clone https://github.com/darrenlavery91/retro-tank.git
+
+# Open index.html in your browser or use a VS Code Live Server extension
+or 
+npm install
+npm run dev
+```
+
+### How to Play
+
+W, A, S, D or Arrow Keys — Move and Navigate
+
+Mouse / Trackpad — Aim
+
+Left Click / Spacebar — Fire / Shoot
+
+Escape — Pause Game
+
+### Authors:
+Jordan Lavery — Co-Creator & Chief Idea Officer 
+
+Darren Lavery — Co-Creator & Dev Lead 
+
+
