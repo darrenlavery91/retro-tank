@@ -5,7 +5,9 @@ A retro-style arcade game built from scratch using Three.js and JavaScript.
 ---
 
 ## The Origin Story
-This game was birthed from a spark of curiosity! It all started when my son, **Jordan**, wanted to learn how to code. Together, we teamed up to take that curiosity and turn it into a fully playable 3D experience. It’s a project built on learning, experimenting, and having a blast engineering a game from the ground up.
+This game was birthed from a spark of curiosity! It all started when my son, **Jordan**, wanted to learn how to code. Together, we teamed up to take that curiosity and turn it into a fully playable 3D experience. It’s a project built on learning, experimenting, and having a blast engineering a game from the ground up. 
+
+Here is the game live: https://retro-tank.netlify.app/
 
 ---
 
@@ -62,7 +64,7 @@ Mouse / Trackpad — Aim
 
 Left Click / Spacebar — Fire / Shoot
 
-Escape — Pause Game
+Click "heart" to pause game
 
 ### Authors:
 Jordan Lavery — Co-Creator & Chief Idea Officer 
